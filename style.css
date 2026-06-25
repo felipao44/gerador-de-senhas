@@ -1,0 +1,17 @@
+:root{
+    --branco: white;
+    --cor-de-fundo: #2F2FE4;
+    --fundo-senha: #162E93;
+    --fundo-texto: #1A1953;
+    --borda: #080616;
+    --embed-code: "Embed code", sans-serif;
+
+}
+*{
+    font-weight:400;
+}
+body{
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
+    font-family: var(--embed-code)
+}
